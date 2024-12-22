@@ -6,9 +6,6 @@ categories: [ Jekyll, tutorial ]
 tags: [lake, ganjam, tampara]
 image: assets/images/IMG_2391_Tampara_lake.jpg
 description: "My review of Inception movie. Acting, plot and something else in this short description."
-featured: false
-hidden: true
-rating: 4.5
 ---
 
 Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
