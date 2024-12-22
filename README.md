@@ -1,5 +1,8 @@
-# Memoirs Jekyll Theme
 
-[Live Demo](https://wowthemesnet.github.io/jekyll-theme-memoirs/) | [Docs & Download](https://bootstrapstarter.com/jekyll-theme-memoirs/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
+# VuePress Theme Mediumish
 
-![memoirs](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg)
+This is a free VuePress Bootstrap Blogging Theme, Medium styled, fully featured: multi author, search, categories, newsletter, Disqus, RSS, sitemap, TOC, Prism, 100% Github pages compatible, ready for automatic deployment.
+
+[View Demo](https://wowthemesnet.github.io/vuepress-theme-mediumish/) | [View Documentation](https://bootstrapstarter.com/vuepress-theme-mediumish/)
+
+![mediumish vuepress blogging theme](https://wowthemesnet.github.io/vuepress-theme-mediumish/assets/img/screenshot.jpg)
